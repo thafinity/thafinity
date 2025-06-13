@@ -9,16 +9,16 @@ Hi! I’m **Thalita** – a first-year Computer Engineering student at Universit
 I code impact—tech that solves, sustains, and serves.
 
 I am intrigued by,
--🌿 Environmental Issues – sustainability through a systems lens
--🖥️ Computer Engineering – decoding how things work, bottom-up
--🛠️ Building Projects – practical tools with real-world impact
--📊 Business & Strategy – solving problems that scale
--🎨 Design & Creative Work – where function meets imagination
+- 🌿 Environmental Issues – sustainability through a systems lens
+- 🖥️ Computer Engineering – decoding how things work, bottom-up
+- 🛠️ Building Projects – practical tools with real-world impact
+- 📊 Business & Strategy – solving problems that scale
+- 🎨 Design & Creative Work – where function meets imagination
 
 Actively contributing in,
--Exercise FTUI - UI/UX (Staff)
--BEM FTUI – Media (Staff)
--IME FTUI - Student affair (staff)
+- Exercise FTUI - UI/UX (Staff)
+- BEM FTUI – Media (Staff)
+- IME FTUI - Student affair (staff)
 
 ---
 **Tech Stacks**
